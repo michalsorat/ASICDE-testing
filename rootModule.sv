@@ -1,7 +1,5 @@
 module rootModule();
-    Module73 inst_Module73();
-    Module18 inst_Module18();
-    Module65 inst_Module65();
-    Module10 inst_Module10();
-    Module12 inst_Module12();
+    rootModule_0 inst_0();
+    rootModule_1 inst_1();
+    rootModule_2 inst_2();
 endmodule
