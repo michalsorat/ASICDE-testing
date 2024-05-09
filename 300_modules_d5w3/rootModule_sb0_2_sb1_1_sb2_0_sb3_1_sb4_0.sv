@@ -1,2 +1,0 @@
-module rootModule_sb0_2_sb1_1_sb2_0_sb3_1_sb4_0();
-endmodule
